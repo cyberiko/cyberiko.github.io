@@ -6,7 +6,7 @@
   
   Available for MacOS, Linux and Win10!
   
-  --> On Linux it will also extract all of the domains and IPs which are inside the js/json/txt/html files of the extensions
+ <b> --> On Linux it will also extract all of the domains and IPs which are inside the js/json/txt/html files of the extensions</b>
 
   <a href="https://github.com/cyberiko/getChromeExtensions">Go to github repo!</a>
 
