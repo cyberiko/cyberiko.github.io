@@ -35,6 +35,7 @@
     ./getChromeExtensions.ps1
     Get-ChromeExtensions [-checkURLs]
     
+    
    In case you get an error regarding "Execution Policy", just run:
 
     
