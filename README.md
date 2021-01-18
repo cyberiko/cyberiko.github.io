@@ -10,7 +10,7 @@
  </br>
  <b> --> On Win10 it will also verify the URLs against urlhaus db!</b>
 
-  <a href="https://github.com/cyberiko/getChromeExtensions">Go to github repo!</a>
+  <a href="https://github.com/tomerhaimof/getChromeExtensions">Go to github repo!</a>
 
   <b>On MacOS/Linux, open terminal and run:
   </b>
@@ -48,6 +48,3 @@
     
    In order to get information from all users, it should run with admin privileges (Run As Administrator) 
   
-
-
-# By Tomer Haimof
