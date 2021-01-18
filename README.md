@@ -6,8 +6,7 @@
   
   Available for MacOS, Linux and Win10!
   
- <b> --> On Linux it will also extract all of the domains and IPs which are inside the js/json/txt/html files of the extensions</b>
- </br>
+ <b> --> On Linux it will also extract all of the domains and IPs which are inside the js/json/txt/html files of the extensions</b>\
  <b> --> On Win10 it will also verify the URLs against urlhaus db!</b>
 
   <a href="https://github.com/tomerhaimof/getChromeExtensions">Go to github repo!</a>
