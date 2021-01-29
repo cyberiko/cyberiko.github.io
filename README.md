@@ -8,7 +8,7 @@
   
  <b> --> On Win10 it will also verify the URLs against urlhaus db!</b>
 
-  <a href="https://github.com/tomerhaimof/getChromeExtensions"><h2>Go to github repo!</h2></a>
+  ## --> <a href="https://github.com/tomerhaimof/getChromeExtensions">Go to github repo!</a> <--
 
   <b>On MacOS/Linux, open terminal and run:
   </b>
