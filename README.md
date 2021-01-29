@@ -15,13 +15,13 @@
 
    
     chmod u+x getChromeExtensions.py
-    ./getChromeExtensions.py
+    ./getChromeExtensions.py [checkExtensions]
    
     
   In order to get information from all users, it should run with "sudo":
   
    
-    sudo ./getChromeExtensions.py
+    sudo ./getChromeExtensions.py [checkExtensions]
    
     
    <b>Please note that "requests" library is required</b>
