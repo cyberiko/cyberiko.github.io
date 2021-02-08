@@ -46,9 +46,9 @@
     
     powershell.exe -executionpolicy bypass -file "c:\cyberiko\getChromeExtensions.ps1"
     
-   In order to get information from all users, it should run with admin privileges (Run As Administrator) 
+   In order to get information from all users, it should run with admin privileges (Run As Administrator)
    
- ## VirusTotal
+## VirusTotal
   This repo will include some scripts which can help you interact with VT API.\
   Each script will include a detailed information of its usage.\
   --> Check a file against VT\
