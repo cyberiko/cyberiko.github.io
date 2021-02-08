@@ -1,14 +1,15 @@
 
-# Welcome! Currently this repository is available:
+# Welcome!
+  Below you can find the latest repositories from my github account:
 
-# getChromeExtensions 
+## getChromeExtensions 
   Get all of currently installed chrome extensions from all users and profiles.\
   In addition, it will extract all of the URLs and IPs which are inside the js/json/txt/html/md files of the extensions.\
   Available for MacOS, Linux and Win10!
   
  <b> --> On Win10 it will also verify the URLs against urlhaus db!</b>
 
-  ## --> <a href="https://github.com/tomerhaimof/getChromeExtensions">Go to github repo!</a> <--
+  <a href="https://github.com/tomerhaimof/getChromeExtensions">Go to github repo!</a>
 
   <b>On MacOS/Linux, open terminal and run:
   </b>
@@ -46,4 +47,11 @@
     powershell.exe -executionpolicy bypass -file "c:\cyberiko\getChromeExtensions.ps1"
     
    In order to get information from all users, it should run with admin privileges (Run As Administrator) 
+   
+ ## VirusTotal
+  This repo will include some scripts which can help you interact with VT API.\
+  Each script will include a detailed information of its usage.\
+  --> Check a file against VT\
+  --> Check a URL against VT
   
+  <a href="https://github.com/tomerhaimof/virustotal">Go to github repo!</a>
