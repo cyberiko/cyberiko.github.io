@@ -1,6 +1,7 @@
 
 # Welcome!
-  Below you can find the latest repositories from my github account:
+  Below you can find my latest repositories.\
+  You can also <a href="https://cyberiko.com">visit my personal blog - Cyberiko</a>
 
 ## getChromeExtensions 
   Get all of currently installed chrome extensions from all users and profiles.\
@@ -9,12 +10,11 @@
   
  <b> --> On Win10 it will also verify the URLs against urlhaus db!</b>
 
-  <a href="https://github.com/tomerhaimof/getChromeExtensions">Go to github repo!</a>
+  <a href="https://github.com/tomerhaimof/getChromeExtensions">--> Go to getChromeExtensions repo! <--</a>
 
   <b>On MacOS/Linux, open terminal and run:
   </b>
 
-   
     chmod u+x getChromeExtensions.py
     ./getChromeExtensions.py [checkExtensions]
    
@@ -27,23 +27,18 @@
     
    <b>Please note that "requests" library is required</b>
 
- 
-
    <b>On Win10, open powershell and run:</b>
 
     
     ./getChromeExtensions.ps1
     Get-ChromeExtensions [-checkURLs]
     
-    
    In case you get an error regarding "Execution Policy", just run:
-
-    
+   
     powershell.exe -executionpolicy bypass -file FULLFILEPATHHERE
     
    For example:
-
-    
+ 
     powershell.exe -executionpolicy bypass -file "c:\cyberiko\getChromeExtensions.ps1"
     
    In order to get information from all users, it should run with admin privileges (Run As Administrator)
@@ -54,4 +49,4 @@
   --> Check a file against VT\
   --> Check a URL against VT
   
-  <a href="https://github.com/tomerhaimof/virustotal">Go to github repo!</a>
+  <a href="https://github.com/tomerhaimof/virustotal">--> Go to Virustotal repo! <--</a>
