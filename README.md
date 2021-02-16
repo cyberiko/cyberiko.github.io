@@ -1,9 +1,9 @@
 
 # Welcome!
-  Below you can find my latest repositories.\
-  You can also <a href="https://cyberiko.com">visit my personal blog - Cyberiko</a>
+  Below you can find my latest github repositories and articles from my personal blog - <a href="https://cyberiko.com">Cyberiko</a>\
 
-## getChromeExtensions 
+## Available Repositories:
+### getChromeExtensions 
   Get all of currently installed chrome extensions from all users and profiles.\
   In addition, it will extract all of the URLs and IPs which are inside the js/json/txt/html/md files of the extensions.\
   Available for MacOS, Linux and Win10!
@@ -43,10 +43,14 @@
     
    In order to get information from all users, it should run with admin privileges (Run As Administrator)
    
-## VirusTotal
+### VirusTotal
   This repo will include some scripts which can help you interact with VT API.\
   Each script will include a detailed information of its usage.\
   --> Check a file against VT\
   --> Check a URL against VT
   
   <a href="https://github.com/tomerhaimof/virustotal">--> Go to Virustotal repo! <--</a>
+  
+## Perosnal Blog - Cyberiko:
+#### <a href="https://cyberiko.com/awae-oswe/">AWAE/OSWE review</a>
+#### <a href="https://cyberiko.com/the-magic-of-regex/">The Magic of RegEx</a>
