@@ -1,6 +1,6 @@
 
 # Welcome!
-  Below you can find my latest github repositories and articles from my personal blog - <a href="https://cyberiko.com">Cyberiko</a>\
+  Below you can find my latest github repositories and articles from my personal blog - <a href="https://cyberiko.com">Cyberiko</a>
 
 ## Available Repositories:
 ### getChromeExtensions 
